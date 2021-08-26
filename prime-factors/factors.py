@@ -9,7 +9,7 @@ try:
 
         while Num % smallerNum == 0:
 
-            print(smallerNum)
+            print(f"\t{smallerNum}")
             Num /= smallerNum
 
     if Num == num:
