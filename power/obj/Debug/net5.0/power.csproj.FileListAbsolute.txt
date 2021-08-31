@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.AssemblyInfo.cs
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.exe
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.deps.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.runtimeconfig.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\ref\power.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\bin\Debug\net5.0\power.pdb
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\ref\power.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.pdb
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\power\obj\Debug\net5.0\power.genruntimeconfig.cache

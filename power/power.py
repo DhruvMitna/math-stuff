@@ -8,7 +8,7 @@ try:
         
         Num *= num
         
-    print(f"{num}^{power} is {Num}")
+    print(f"{num} ^ {power} is {Num}")
     
 except ValueError:
     
