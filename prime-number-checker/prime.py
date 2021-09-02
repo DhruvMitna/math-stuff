@@ -23,7 +23,7 @@ try:
         
     else:
         
-        print("Please enter a valid value.")
+        print("Please enter a positive number.")
   
 # If the user enters an invalid value, then this message is printed out instead of the program crashing with an ugly error.        
 except ValueError:

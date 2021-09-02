@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.exe
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.deps.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.runtimeconfig.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\ref\prime-factors.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\bin\Debug\net5.0\prime-factors.pdb
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.AssemblyInfo.cs
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\ref\prime-factors.dll
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.pdb
+C:\Users\Owner\Desktop\E\Workspace\math-stuff\prime-factors\obj\Debug\net5.0\prime-factors.genruntimeconfig.cache
