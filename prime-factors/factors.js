@@ -1,6 +1,8 @@
+// Importing the necessary module.
 const ps = require("prompt-sync")();
 prompt = ps;
 
+// Defining a function for ranges
 function rangeFor(start, end) {
 
     let rangeList = []
@@ -15,9 +17,11 @@ function rangeFor(start, end) {
 
 }
 
+// Getting the user input.
 num = parseInt(prompt("Enter the number you wnat to find the prime factors of: "));
 Num = num;
 
+// Calculating the ouput.
 console.log(`The prime factors of ${num} are-:\n`)
 
 for (smallerNum in rangeFor(2, num)) {
@@ -31,4 +35,5 @@ for (smallerNum in rangeFor(2, num)) {
 
 }
 
+// Composite case.
 if (num === Num) console.log(`${num} has no prime factors (except ${num} itself)`)
